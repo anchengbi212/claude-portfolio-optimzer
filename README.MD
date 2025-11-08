@@ -1,25 +1,24 @@
-
-```markdown
 Portfolio Optimization Tool
 
 A Python-based portfolio optimization program using Modern Portfolio Theory (MPT) to help investors maximize returns while minimizing risk.
 
 Features
 
-- **Interactive Menu System** - Easy-to-use command-line interface
-- **Portfolio Analysis** - Calculate optimal asset allocations using:
+- Interactive Menu System - Easy-to-use command-line interface
+- Portfolio Analysis - Calculate optimal asset allocations using:
   - Maximum Sharpe Ratio (best risk-adjusted returns)
   - Minimum Variance (lowest risk)
   - Efficient Frontier visualization
-- **Purchase Tracking** - Track multiple purchases per stock with fractional shares
-- **Real-Time Performance** - View current portfolio value and gains/losses
-- **Flexible Date Ranges** - Custom date ranges for individual stocks or portfolio-wide
-- **Visual Analytics** - Generate efficient frontier plots with matplotlib
-```
+- Purchase Tracking - Track multiple purchases per stock with fractional shares
+- Real-Time Performance - View current portfolio value and gains/losses
+- Flexible Date Ranges - Custom date ranges for individual stocks or portfolio-wide
+- Visual Analytics - Generate efficient frontier plots with matplotlib
+
 
 Quick Start
 
-```bash
+```
+bash
 Install dependencies
 pip3 install numpy pandas matplotlib scipy yfinance
 
