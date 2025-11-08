@@ -1,4 +1,4 @@
-Portfolio Optimization Tool
+Portfolio Optimization Tool built with Claude
 
 A Python-based portfolio optimization program using Modern Portfolio Theory (MPT) to help investors maximize returns while minimizing risk.
 
