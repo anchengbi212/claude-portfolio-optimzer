@@ -1,11 +1,10 @@
-Here's a concise README description for your portfolio optimizer:
 
 ```markdown
-# Portfolio Optimization Tool
+Portfolio Optimization Tool
 
 A Python-based portfolio optimization program using Modern Portfolio Theory (MPT) to help investors maximize returns while minimizing risk.
 
-## Features
+Features
 
 - **Interactive Menu System** - Easy-to-use command-line interface
 - **Portfolio Analysis** - Calculate optimal asset allocations using:
@@ -16,18 +15,19 @@ A Python-based portfolio optimization program using Modern Portfolio Theory (MPT
 - **Real-Time Performance** - View current portfolio value and gains/losses
 - **Flexible Date Ranges** - Custom date ranges for individual stocks or portfolio-wide
 - **Visual Analytics** - Generate efficient frontier plots with matplotlib
+```
 
-## Quick Start
+Quick Start
 
 ```bash
-# Install dependencies
+Install dependencies
 pip3 install numpy pandas matplotlib scipy yfinance
 
-# Run the program
+Run the program
 python3 portfolio_optimizer.py
 ```
 
-## Usage
+Usage
 
 1. Enter your stock tickers (e.g., AAPL, MSFT, GOOGL)
 2. Optionally track your actual purchases with dates and prices
@@ -36,4 +36,3 @@ python3 portfolio_optimizer.py
 5. Visualize the efficient frontier
 
 Perfect for both beginner and advanced investors looking to optimize their stock portfolios.
-```
